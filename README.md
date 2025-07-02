@@ -12,7 +12,7 @@ This repository contains code to decode a secret code and automate answering que
 ## Step-by-Step Instructions
 
 ### 1. Decode the Secret Code
-- **Postman Collection**: Access the API collection at [Postman Link](https://.postman.co/workspace/My-Workspace~16fbda21-508d-46f2-8670-a7a8e95f1758/collection/39184994-ed0104ce-caaa-4d68-9e5b-a4b47381e831?action=share&creator=39184994).
+- **Postman Collection**: Access the API collection at [Postman Link]([https://postman.co/workspace/My-Workspace~16fbda21-508d-46f2-8670-a7a8e95f1758/collection/39184994-ed0104ce-caaa-4d68-9e5b-a4b47381e831?action=share&creator=39184994).
 - **Python Script**:
   - Run the command:
     ```bash
